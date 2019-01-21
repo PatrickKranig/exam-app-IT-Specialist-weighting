@@ -1,0 +1,20 @@
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\bin\Debug\Prüfung Gewichtung.exe.config
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\bin\Debug\Prüfung Gewichtung.exe
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\bin\Debug\Prüfung Gewichtung.pdb
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.csprojAssemblyReference.cache
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung_Gewichtung.Form1.resources
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung_Gewichtung.Properties.Resources.resources
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.csproj.GenerateResource.cache
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.exe
+C:\Users\Patri\source\repos\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.pdb
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\bin\Debug\Prüfung Gewichtung.exe.config
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\bin\Debug\Prüfung Gewichtung.exe
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\bin\Debug\Prüfung Gewichtung.pdb
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.csprojAssemblyReference.cache
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung_Gewichtung.Form1.resources
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung_Gewichtung.Properties.Resources.resources
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.csproj.GenerateResource.cache
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.csproj.CoreCompileInputs.cache
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.exe
+E:\Users\Pat\Desktop\Prüfung Gewichtung\Prüfung Gewichtung\obj\Debug\Prüfung Gewichtung.pdb
